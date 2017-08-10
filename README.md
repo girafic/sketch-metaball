@@ -1,2 +1,1 @@
-# sketch-metaball
-Sketch Metaball Plugin
+# Sketch Metaball Plugin
